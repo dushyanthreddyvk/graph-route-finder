@@ -217,26 +217,8 @@ Add application UI screenshot here:
 
 ### BFS Algorithm Execution
 Add BFS result screenshot here:
-```
-![BFS Traversal Result](./screenshots/bfs-output.png)
-```
+<img width="1470" height="956" alt="Screenshot 2026-05-29 at 12 55 50 PM" src="https://github.com/user-attachments/assets/00fd9a0f-fe6b-4e6e-a99f-f9b61b4e204a" />
 
-### Dijkstra's Shortest Path
-Add Dijkstra result screenshot here:
-```
-![Dijkstra Algorithm Result](./screenshots/dijkstra-output.png)
-```
-
-### Algorithm Comparison
-Add comparison result screenshot here:
-```
-![Algorithm Comparison](./screenshots/comparison-output.png)
-```
-
-**To add screenshots:**
-1. Create a `screenshots/` folder in your project root
-2. Add your `.png` or `.jpg` files there
-3. Uncomment the image links above
 
 ## �🔮 Future Improvements
 
