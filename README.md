@@ -207,7 +207,38 @@ Cost: 1500
 Min: 500
 ```
 
-## 🔮 Future Improvements
+## � Sample Output & Screenshots
+
+### GUI Application Interface
+Add application UI screenshot here:
+```
+![Graph Route Finder GUI](./screenshots/gui-main.png)
+```
+
+### BFS Algorithm Execution
+Add BFS result screenshot here:
+```
+![BFS Traversal Result](./screenshots/bfs-output.png)
+```
+
+### Dijkstra's Shortest Path
+Add Dijkstra result screenshot here:
+```
+![Dijkstra Algorithm Result](./screenshots/dijkstra-output.png)
+```
+
+### Algorithm Comparison
+Add comparison result screenshot here:
+```
+![Algorithm Comparison](./screenshots/comparison-output.png)
+```
+
+**To add screenshots:**
+1. Create a `screenshots/` folder in your project root
+2. Add your `.png` or `.jpg` files there
+3. Uncomment the image links above
+
+## �🔮 Future Improvements
 
 - ✅ **A* Algorithm** - Heuristic-based pathfinding
 - ✅ **Bellman-Ford Algorithm** - Handle negative weights
